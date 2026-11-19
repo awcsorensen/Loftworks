@@ -15,11 +15,24 @@ Loftworks is a mod for Kerbal Space Program 1.12 that allows full vertex control
 - Set up native Loftworks hinges, slides and control surfaces, and sequence events with the *Loftworks Motion Editor* window.
 - Save shapes as templates or save complete Lofts and share them with the *Loftworks Pre-Mades Library*.
 
-To get started, select a Loftworks part from the Structural parts tab in the VAB or SPH, open the KSP PAW and select *Open Loft Editor*
+## How to use
+
+To get started, select a Loftworks part from the Structural parts tab in the VAB or SPH, open the KSP PAW and select *Open Loft Editor*.
+- Play around with the editor and see what happens!
+
+To create 
+
+## Preview
 
 The following video is a preview of what is capable with Loftworks. Build custom parts in the VAB or SPH, from shaped fuselages and panels to animated doors and control surfaces.
 
 
-
 https://github.com/user-attachments/assets/22fed12e-deda-46ee-bd98-39c2ab565755
 
+## Dependencies
+
+**Textures Unlimited** is an optional dependency for Metallic and PBR finishes, without TU then standard shaders are applied.
+https://github.com/shadowmage45/TexturesUnlimited
+
+**ModuleManager** is an optional dependency used for bundled compatibility patches for FAR, and to disable Tweakscale on Lofts.
+[http://forum.kerbalspaceprogram.com/threads/55219-Module-Manager-1-5-6](https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/)
