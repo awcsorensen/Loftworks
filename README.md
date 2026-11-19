@@ -16,3 +16,10 @@ Loftworks is a mod for Kerbal Space Program 1.12 that allows full vertex control
 - Save shapes as templates or save complete Lofts and share them with the *Loftworks Pre-Mades Library*.
 
 To get started, select a Loftworks part from the Structural parts tab in the VAB or SPH, open the KSP PAW and select *Open Loft Editor*
+
+The following video is a preview of what is capable with Loftworks. Build custom parts in the VAB or SPH, from shaped fuselages and panels to animated doors and control surfaces.
+
+
+
+https://github.com/user-attachments/assets/22fed12e-deda-46ee-bd98-39c2ab565755
+
