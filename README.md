@@ -35,7 +35,7 @@ Loftworks is a mod for Kerbal Space Program 1.12 that allows full vertex control
 
 https://github.com/user-attachments/assets/22fed12e-deda-46ee-bd98-39c2ab565755
 
-#### Quick previews of the loft shaping tools.
+#### Older beta version previews of the loft shaping tools.
 
 https://github.com/user-attachments/assets/6ccd654c-a21e-4c27-ae42-b50428eec099
 
