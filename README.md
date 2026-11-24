@@ -24,7 +24,7 @@ Loftworks is a mod for Kerbal Space Program 1.12 that allows full vertex control
 1. Activate motion with *Motion Active?* and then select control surface from the 3 options.
 2. Set your motion axis origin through specific vertices or through the part origin.
 3. Set your motion limits and then you can adjust the settings like a normal control surface
-###### *FAR is untested at this point but stock aero works in initial testing.*
+###### *Lofts produce no lift in FAR at this point, stock aero works. Further FAR compatibility is in development.*
 
 #### Video tutorials will come later on showcasing a few workflows to create custom landing gear bays and cargo ramps.
 
