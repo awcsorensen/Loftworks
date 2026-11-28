@@ -1,6 +1,6 @@
 <img width="1000" alt="loftworksLARGE" src="https://github.com/user-attachments/assets/8a7adf43-3e9f-436e-9869-797a86950a39" />
 
-# Loftworks 0.77.1.25-prerelease
+# Loftworks 0.77.3.5-prerelease
 
 Loftworks is a mod for Kerbal Space Program 1.12 that allows full vertex control part modelling via a custom editor. Shape a Loft by editing a series of cross-sections, with lofts available with 8/16/32/64 vertex options, simple surface parts and panel variants available. 
 
